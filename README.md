@@ -1,5 +1,5 @@
 # jogo-da-velha
-> 🔠 Um jogo da velha multiplayer desenvolvido em Java
+> :older_woman: Um jogo da velha multiplayer desenvolvido em Java
 
 ## Interfaces
 
