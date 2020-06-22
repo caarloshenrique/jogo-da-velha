@@ -16,6 +16,9 @@ O projeto foi feito utilizando as seguintes tecnologias:
     <img width="400" height="430" src="/public/game-message.png">
 </p>
 
+## :fire: Instalação e execução
+Execute a classe `VelhaView` localizada em `src/br/com/jogodavelha/view/VelhaView.java`
+
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
 
