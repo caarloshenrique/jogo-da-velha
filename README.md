@@ -1,13 +1,6 @@
 # jogo-da-velha
 > :older_woman: Um jogo da velha multiplayer desenvolvido em Java
 
-## :rocket: Tecnologias utilizadas  
-O projeto foi feito utilizando as seguintes tecnologias:
-
-- [Java 8](https://www.java.com/pt_BR/download/faq/java8.xml)
-- [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/)
-{...}
-
 ## :computer: Interfaces
 
 <p align="center">
@@ -15,6 +8,13 @@ O projeto foi feito utilizando as seguintes tecnologias:
     <img width="400" height="430" src="/public/game.png">
     <img width="400" height="430" src="/public/game-message.png">
 </p>
+
+## :rocket: Tecnologias utilizadas  
+O projeto foi feito utilizando as seguintes tecnologias:
+
+- [Java 8](https://www.java.com/pt_BR/download/faq/java8.xml)
+- [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/)
+{...}
 
 ## :fire: Instalação e execução
 Execute a classe `VelhaView` localizada em `src/br/com/jogodavelha/view/VelhaView.java`
