@@ -16,6 +16,10 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/)
 {...}
 
+## :clipboard: Pré-requisitos
+
+- [Java 8](https://www.java.com/pt_BR/download/faq/java8.xml)
+
 ## :fire: Instalação e execução
 Execute a classe `VelhaView` localizada em `src/br/com/jogodavelha/view/VelhaView.java`
 
